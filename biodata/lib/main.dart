@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: <Widget>[ Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
-          Container( margin: EdgeInsets.fromLTRB(0, 30, 0, 0),child:Text("MENGENANG 21 TAHUN ",style:TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
+          Container( margin: EdgeInsets.fromLTRB(0, 30, 0, 0),child:Text("BIODATA ",style:TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
           ),Center(
 
               child: Container( margin: EdgeInsets.fromLTRB(0, 10, 0, 0),width: 200, height: 200,child: Image(
